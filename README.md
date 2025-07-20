@@ -61,6 +61,25 @@
 ---
 
 
+## 🎨 Asset Credits
+
+- **Player Sprite**  
+  - Source: [Free 3 Cyberpunk Sprites – itch.io](https://free-game-assets.itch.io/free-3-cyberpunk-sprites-pixel-art)  
+  - License: Free for personal and commercial use with attribution
+
+- **Spike Sprite**  
+  - Source: [Free Simple Platformer Game Kit – Craftpix](https://craftpix.net/freebies/free-simple-platformer-game-kit-pixel-art/)  
+  - License: Freebies available under Craftpix license – attribution required
+
+- **Background Images**  
+  - Source: [Free Nature Backgrounds – Craftpix](https://craftpix.net/freebies/free-nature-backgrounds-pixel-art/)  
+  - License: Free for use with attribution
+
+- **Soundtrack**  
+  - Generated using [Suno AI](https://suno.com)  
+  - Royalty-free under AI-generated music usage terms
+---
+
 ## 📁 Installation
 
 1. Download the repository or clone it:
