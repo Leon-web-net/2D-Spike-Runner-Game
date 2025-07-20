@@ -80,8 +80,3 @@
   - Royalty-free under AI-generated music usage terms
 ---
 
-## 📁 Installation
-
-1. Download the repository or clone it:
-   ```bash
-   git clone https://github.com/yourusername/SpikeRunner.git
